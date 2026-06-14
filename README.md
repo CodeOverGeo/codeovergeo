@@ -47,12 +47,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" **alt="SQLAlchemy" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CodeOverGeo)](https://git.io/streak-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeOverGeo)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ---
 
 ### :hammer_and_wrench: Languages and Tools : -->
 
